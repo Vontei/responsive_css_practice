@@ -12,5 +12,27 @@ DO NOW:
 
 Create a box within a box in CSS, where each box has a different color. 
 
+TOPICS: 
+
+Selectors
+  examples:  p ,  #my_id , .this_class
+  order of selectors and combining selectors
+
+The Box Model
+  Content area, padding, border, margin
+
+Position related
+  float
+  position: static relative absolute fixed
+  examples
+
+display:
+  none, block, [inline], [inline-block]
+
+Image related
+  background: url('file.jpg')
+  
+Pseudo classes
+  :hover
 
 
