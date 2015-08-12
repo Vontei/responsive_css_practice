@@ -45,4 +45,6 @@ EXIT TICKETS: By the end of the workshop, students will be able to copy aspects 
 2. Level two should be able to reproduce the entire header and at least one component of the main body
 3. Level three should be able to reproduce the header and the fully body including input form and photo gallery with a CSS :hover rollover effect on the image panel. 
 
+DO NOW:  Visit ShortTermHousing.com and come up with a strategy to carve up the the header and body of the page. Be prepared to discuss with class.  Also, come up to board and fill in your name on the seating chart. 
+
 
