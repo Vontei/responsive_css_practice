@@ -1,0 +1,102 @@
+
+.header {
+  font-family: 'Tangerine';
+  font-size: 48px;
+  color: #f40000;
+}
+
+.footer{
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
+  background:#999;
+}
+
+#top_box{
+  background: #440000;
+  width: 25px;
+  height: 25px;
+  float:right;
+  position: absolute;
+  left: 4px;
+  right: 4px;
+}
+
+
+.box_container{
+  width: 700px;
+  height: auto;
+  padding: 30px;
+}
+
+.box{
+  float:left;
+  width: 100px;
+  height: 100px;
+  margin:20px;
+}
+
+.round{
+  border-radius: 2px 2px 2px 5px;
+  border: 1px solid #000;
+}
+/* border-top-left-radius, border-top-right-radius, border-bottom-right-radius and border-bottom-left-radius properties, respectively.   * /
+
+
+
+.cameo{
+  background-image: image-url('splash.jpg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-position: 30% 20%;
+  background-position: xpos, ypos;
+  background-position: 30px; 40px;
+}
+
+@media (max-width: 800px) {
+  /* Smaller Resolution Desktops and Laptops */
+}
+
+@media (max-width: 650px) {
+  /* Smaller devices */
+
+
+}
+
+@media (max-width: 450px) {
+  /* Even Smaller devices */
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* Even Smaller devices */
+
+}
+
+/* Media types:
+all
+
+braille
+
+embossed
+
+handheld
+
+print
+
+projection
+
+screen
+
+speech
+-->  Note: CSS2 had a similar media type called 'aural' for this purpose. See the appendix on aural style sheets for details.
+
+tty
+Intended for media using a fixed-pitch character grid (such as teletypes, terminals, or portable devices with limited display capabilities). Authors should not use pixel units with the "tty" media type.
+
+tv
+Intended for television-type devices (low resolution, color, limited-scrollability screens, sound available).
+
+*/
